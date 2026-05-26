@@ -2,8 +2,7 @@
 
  <div>
    <a href="https://github.com/Jubssl01">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jubssl01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubssl01&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
